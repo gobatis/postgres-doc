@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Postgres',
+  title: 'Postgres 文档整理',
   tagline: 'Dinosaurs are cool',
   url: 'https://postgres.gobatis.com',
   baseUrl: '/',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Postgres 文档整理',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
