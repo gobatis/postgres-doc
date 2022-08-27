@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpostgres_doc=self.webpackChunkpostgres_doc||[]).push([[9262],{5745:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
