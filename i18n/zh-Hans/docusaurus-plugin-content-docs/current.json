@@ -1,0 +1,22 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.II. SQL 语言": {
+    "message": "II. SQL 语言",
+    "description": "The label for category II. SQL 语言 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SQL 语法": {
+    "message": "SQL 语法",
+    "description": "The label for category SQL 语法 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.IV. 客户端接口": {
+    "message": "IV. 客户端接口",
+    "description": "The label for category IV. 客户端接口 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.附录": {
+    "message": "附录",
+    "description": "The label for category 附录 in sidebar tutorialSidebar"
+  }
+}
